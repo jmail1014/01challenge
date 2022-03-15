@@ -1,6 +1,6 @@
 # Horiseon Website Refactor
 
-The purpose of this challenge was to refactor an exsiting sites code to help accessability. The code was refactored and made to be more semantic. 
+The purpose of this challenge was to refactor an exsiting appication's code to help accessability. The code was refactored and made to be more semantic. 
 
 ## Description
 
