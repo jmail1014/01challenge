@@ -1,4 +1,4 @@
-# Challenge 01 - Horiseon Website - Refactor
+# Horiseon Website Refactor
 
 The purpose of this challenge was to refactor an exsiting sites code to help accessability. The code was refactored and made to be more semantic. 
 
@@ -6,6 +6,7 @@ The purpose of this challenge was to refactor an exsiting sites code to help acc
 
 The Horiseon website now meets accessibility standards with sematic code. 
 
+## Steps taken:
 * Websites title was changed to be more descriptive of the website. 
 * Alt attributes were added to the 6 images, with # since they were all icons and fit the descriptive text as decoration so did not need to be further described. 
 * Html structure was changed from divs to more sematic elements like header, footer, nav, aside and main. 
@@ -15,6 +16,9 @@ The Horiseon website now meets accessibility standards with sematic code.
 
 * In Css the html structure was grouped then labeled with css comments, as well as listed in order of arrival on website.
 * Combined duplicate css rules with the reworked class names, using one class selector for multiple sections of html with the same css rules.
+
+## Technologies used:
+- Semantic and responsive HTML
 
 ## Website preview
 https://jmail1014.github.io/01challenge/
