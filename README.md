@@ -18,7 +18,7 @@ The Horiseon website now meets accessibility standards with sematic code.
 * Combined duplicate css rules with the reworked class names, using one class selector for multiple sections of html with the same css rules.
 
 ## Technologies used:
-- Semantic and responsive HTML
+- Semantic HTML
 
 ## Website preview
 https://jmail1014.github.io/01challenge/
